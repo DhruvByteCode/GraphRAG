@@ -5,20 +5,6 @@
 👉 [Read the docs](https://microsoft.github.io/graphrag)<br/>
 👉 [GraphRAG Arxiv](https://arxiv.org/pdf/2404.16130)
 
-<div align="left">
-  <a href="https://pypi.org/project/graphrag/">
-    <img alt="PyPI - Version" src="https://img.shields.io/pypi/v/graphrag">
-  </a>
-  <a href="https://pypi.org/project/graphrag/">
-    <img alt="PyPI - Downloads" src="https://img.shields.io/pypi/dm/graphrag">
-  </a>
-  <a href="https://github.com/microsoft/graphrag/issues">
-    <img alt="GitHub Issues" src="https://img.shields.io/github/issues/microsoft/graphrag">
-  </a>
-  <a href="https://github.com/microsoft/graphrag/discussions">
-    <img alt="GitHub Discussions" src="https://img.shields.io/github/discussions/microsoft/graphrag">
-  </a>
-</div>
 
 ## Overview
 
