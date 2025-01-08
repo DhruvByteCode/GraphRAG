@@ -49,7 +49,7 @@ We strongly recommend to fine-tune your prompts following the [Prompt Tuning Gui
 
 ## Responsible AI FAQ
 
-See [RAI_TRANSPARENCY.md](./RAI_TRANSPARENCY.md)
+
 
 - [What is GraphRAG?](./RAI_TRANSPARENCY.md#what-is-graphrag)
 - [What can GraphRAG do?](./RAI_TRANSPARENCY.md#what-can-graphrag-do)
